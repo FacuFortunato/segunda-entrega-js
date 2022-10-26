@@ -1,0 +1,15 @@
+bienvenida --> CHECK
+
+registro (crear un objeto alumno ¿?) --> CHECK
+
+validación --> CHECK
+
+inscripción;
+
+confirmación (includes - array)
+
+validación - find (o some para filtrar a cual está inscripto)
+
+
+
+hacer array de objetos de cursos (listaCursos)
